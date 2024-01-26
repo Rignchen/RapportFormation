@@ -24,7 +24,7 @@ const links = [
     ]},
     
     { text: 'Html-Css', items: [
-      { text: 'Static Website', link: '/projects/html-css/site-statique'},
+      { text: 'Static Website', link: '/projects/html-css/static-web'},
       { text: 'Web Integration', link: '/projects/html-css/web-integration'},
       //{ text: 'TODO', link: '/projects/html-css/TODO'}, 
     ]}
