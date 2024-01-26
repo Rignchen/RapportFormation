@@ -12,7 +12,7 @@ hero:
       link: /introduction
     - theme: alt
       text: Github repo
-      link: https://github.com/jobtrek/progress-report
+      link: https://github.com/Rignchen/RapportFormation
 
 features:
   - title: My projects

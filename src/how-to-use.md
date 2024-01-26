@@ -97,4 +97,4 @@ You can add assets to your markdown files by placing them in the same folder as 
 
 ## Start you repo
 
-Check the README of the [Github template](https://github.com/jobtrek/progress-report) to see installation and setup instructions.
+Check the README of the [Github template](https://github.com/Rignchen/RapportFormation) to see installation and setup instructions.

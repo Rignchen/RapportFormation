@@ -18,7 +18,7 @@ export default defineConfig({
   description: "The training report outlines all the skills acquired during the CFC of computer scientist applications development.",
   cleanUrls: true,
   lang: 'en',
-  base: "/progress-report/",
+  base: "/RapportFormation/",
   lastUpdated: true,
   
   themeConfig: {
@@ -46,12 +46,12 @@ export default defineConfig({
 
     socialLinks: [
       // Replace link with yor own GitHub repo or github profile
-      { icon: 'github', link: 'https://github.com/jobtrek/progress-report' }
+      { icon: 'github', link: 'https://github.com/Rignchen/RapportFormation' }
     ],
 
     editLink: {
       // Change first part of path to your repo name
-      pattern: 'https://github.com/jobtrek/progress-report/edit/main/src/:path',
+      pattern: 'https://github.com/Rignchen/RapportFormation/edit/main/src/:path',
       text: 'Edit this page on GitHub'
     }
   }
