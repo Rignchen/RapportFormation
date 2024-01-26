@@ -58,7 +58,7 @@ export default defineConfig({
 
     socialLinks: [
       // Replace link with yor own GitHub repo or github profile
-      { icon: 'github', link: 'https://github.com/Rignchen/RapportFormation' }
+      { icon: 'github', link: 'https://github.com/Rignchen' }
     ],
 
     editLink: {
