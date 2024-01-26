@@ -89,10 +89,10 @@ See [VitePress markdown extension](https://vitepress.dev/guide/markdown) for mor
 You can add assets to your markdown files by placing them in the same folder as the markdown file or in a subfolder. Then you can reference them using relative links.
 
 ```md
-![My image alt](./images/how-it-looks.png)
+![My image alt](./images/rust_todo/show_list.png)
 ```
 
-![My image alt](./images/how-it-looks.png)
+![My image alt](./images/rust_todo/show_list.png)
 
 
 ## Start you repo
