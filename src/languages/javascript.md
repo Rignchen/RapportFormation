@@ -1,1 +1,0 @@
-# JavaScript <Badge type="tip" text="JS" />
