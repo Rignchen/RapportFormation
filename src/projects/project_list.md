@@ -42,4 +42,12 @@ features:
     details: Diffrent projects I have worked on.
     link: /projects/java/time-tracking-analysis
     linkText: See my projects
+  - title: Todo list in PHP
+    details: Diffrent projects I have worked on.
+    link: /projects/php/php-todo
+    linkText: See my projects
+  - title: Blog in PHP
+    details: Diffrent projects I have worked on.
+    link: /projects/php/blog
+    linkText: See my projects
 ---
