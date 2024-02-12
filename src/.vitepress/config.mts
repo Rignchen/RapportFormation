@@ -41,11 +41,12 @@ export default defineConfig({
   lang: 'en',
   base: "/RapportFormation/",
   lastUpdated: true,
-  
+
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
+      // @ts-ignore
       ...links
     ],
 
