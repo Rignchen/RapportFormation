@@ -14,17 +14,17 @@ features:
     details: Diffrent projects I have worked on.
     link: /projects/rust/rust-todo
     linkText: See my projects
-  - title: Ex Java
-    details: Diffrent projects I have worked on.
-    link: /projects/java/ex-java
-    linkText: See my projects
   - title: Static website
     details: Diffrent projects I have worked on.
     link: /projects/html-css/static-web
     linkText: See my projects
-  - title: Tick Tack Toe in Java
+  - title: Ex Java
     details: Diffrent projects I have worked on.
-    link: /projects/java/tick-tack-toe
+    link: /projects/java/ex-java
+    linkText: See my projects
+  - title: Tic Tic Toe in Java
+    details: Diffrent projects I have worked on.
+    link: /projects/java/tic-tac-toe
     linkText: See my projects
   - title: Web Integration
     details: Diffrent projects I have worked on.

@@ -13,7 +13,7 @@ const links = [
 
     { text: 'Java', items: [
       { link: '/projects/java/ex-java', text: 'Ex Java' },
-      { link: '/projects/java/tick-tack-toe', text: 'Tick Tack Toe' },
+      { link: '/projects/java/tic-tac-toe', text: 'Tic Tic Toe' },
       { link: '/projects/java/time-tracking-analysis', text: 'Time Tracking Analysis' },
       //{ link: '/projects/java/TODO', text: 'TODO' },
     ]},
