@@ -1,6 +1,6 @@
 import {DefaultTheme, defineConfig} from 'vitepress'
 
-// Will be displayed in left side bar and navigation
+// Will be displayed in left sidebar and navigation
 const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Projects', items: [
@@ -34,7 +34,7 @@ const links = [
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // Update your title and description with user name
+  // Update your title and description with username
   title: "My Progress Report - Toto",
   description: "The training report outlines all the skills acquired during the CFC of computer scientist applications development.",
   cleanUrls: true,
