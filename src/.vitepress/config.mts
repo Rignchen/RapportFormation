@@ -1,4 +1,4 @@
-import {DefaultTheme, defineConfig} from 'vitepress'
+import {defineConfig} from 'vitepress'
 
 // Will be displayed in left sidebar and navigation
 const links = [
@@ -6,27 +6,34 @@ const links = [
   { text: 'Projects', items: [
 
     { text: 'Rust', items: [
-      { text: 'Rustlings', link: '/projects/rust/rustlings'}, 
-      { text: 'Rust todo list', link: '/projects/rust/rust-todo'},
-      //{ text: 'TODO', link: '/projects/rust/TODO'}, 
+      { link: '/projects/rust/rustlings', text: 'Rustlings' },
+      { link: '/projects/rust/rust-todo', text: 'Rust todo list' },
+      //{ link: '/projects/rust/TODO', text: 'TODO' },
     ]},
 
     { text: 'Java', items: [
-      { text: 'Ex Java', link: '/projects/java/ex-java'}, 
-      { text: 'Tick Tack Toe', link: '/projects/java/tick-tack-toe'},
-      //{ text: 'TODO', link: '/projects/java/TODO'}, 
+      { link: '/projects/java/ex-java', text: 'Ex Java' },
+      { link: '/projects/java/tick-tack-toe', text: 'Tick Tack Toe' },
+      { link: '/projects/java/time-tracking-analysis', text: 'Time Tracking Analysis' },
+      //{ link: '/projects/java/TODO', text: 'TODO' },
     ]},
     
     { text: 'Javascript', items: [
-      { text: 'Ex Javascript', link: '/projects/js/ex-js'},
-      { text: 'Js Grade Calculator', link: '/projects/js/grade-calculator'},
-      //{ text: 'TODO', link: '/projects/js/TODO'}, 
+      { link: '/projects/js/ex-js', text: 'Ex Javascript' },
+      { link: '/projects/js/grade-calculator', text: 'Js Grade Calculator' },
+      //{ link: '/projects/js/TODO', text: 'TODO' },
     ]},
-    
+
+    { text: 'php', items: [
+      { link: '/projects/php/php-todo', text: 'Php Todo List' },
+      { link: '/projects/php/blog', text: 'Slim + Twig Blog' },
+      //{ link: '/projects/php/TODO', text: 'TODO' },
+    ]},
+
     { text: 'Html-Css', items: [
-      { text: 'Static Website', link: '/projects/html-css/static-web'},
-      { text: 'Web Integration', link: '/projects/html-css/web-integration'},
-      //{ text: 'TODO', link: '/projects/html-css/TODO'}, 
+      { link: '/projects/html-css/static-web', text: 'Static Website' },
+      { link: '/projects/html-css/web-integration', text: 'Web Integration' },
+      //{ link: '/projects/html-css/TODO', text: 'TODO' },
     ]}
 
   ]}
