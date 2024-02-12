@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Toto Tutu"
+  name: "Nils Hofstetter"
   text: "Training report"
   tagline: "The training report outlines all the skills acquired during the CFC of computer scientist applications development."
   actions:
