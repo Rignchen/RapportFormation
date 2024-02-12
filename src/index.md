@@ -15,13 +15,8 @@ hero:
       link: https://github.com/Rignchen/RapportFormation
 
 features:
-  - title: My projects
+  - title: Project made at Jobtrek
     details: Diffrent projects I have worked on.
-    link: /projects/rust-todo
+    link: /projects/project_list
     linkText: See my projects
-  - title: Programming languages
-    details: Programming languages I have worked with.
-    link: /languages/javascript
-    linkText: See learned languages
 ---
-
