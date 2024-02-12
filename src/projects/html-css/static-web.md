@@ -7,7 +7,7 @@ Our website needed to have at least:
 - A video
 - A map that can be interacted with
 
-I chose to make a website for a company that sells burgers calles "Burger Paradise"<br>
+I chose to make a website for a company that sells burgers called "Burger Paradise"<br>
 For the form I imagined that if you aren't satisfied with the burgers suggested on the website, 
 you can create your own burger inside a form and the company will make it for you.
 
