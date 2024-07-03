@@ -1,4 +1,4 @@
-# Blog <Badge type="tip" text="PHP" />
+# Blog <Badge type="tip" text="PhP" />
 
 ## Introduction
 I didn't want to start this project as I had heard a lot of bad things about PHP, but once I started I realized that it was not as bad as I thought.\

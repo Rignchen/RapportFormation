@@ -17,7 +17,7 @@ const links = [
       { link: '/projects/java/time-tracking-analysis', text: 'Time Tracking Analysis' },
       //{ link: '/projects/java/TODO', text: 'TODO' },
     ]},
-    
+
     { text: 'Javascript', items: [
       { link: '/projects/js/ex-js', text: 'Ex Javascript' },
       { link: '/projects/js/grade-calculator', text: 'Js Grade Calculator' },

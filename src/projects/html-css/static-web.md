@@ -1,4 +1,4 @@
-# Static Website <Badge type="tip" text="html-css" />
+# Static Website <Badge type="tip" text="Html-Css" />
 
 Once we've finished Rust, we started to learn HTML and CSS by making a [static website](https://github.com/Rignchen/site-statique) for a fictional company, 
 Our website needed to have at least:
