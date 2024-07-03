@@ -50,4 +50,12 @@ features:
     details: Diffrent projects I have worked on.
     link: /projects/php/blog
     linkText: See my projects
+  - title: Climat Guardian
+    details: Diffrent projects I have worked on.
+    link: /projects/others/climat-guardian
+    linkText: See my projects
+  - title: Solution Wiper
+    details: Diffrent projects I have worked on.
+    link: /projects/rust/solution-wiper
+    linkText: See my projects
 ---

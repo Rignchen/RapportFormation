@@ -8,6 +8,7 @@ const links = [
     { text: 'Rust', items: [
       { link: '/projects/rust/rustlings', text: 'Rustlings' },
       { link: '/projects/rust/rust-todo', text: 'Rust todo list' },
+      { link: '/projects/rust/sw', text: 'Solution Wiper' },
       //{ link: '/projects/rust/TODO', text: 'TODO' },
     ]},
 
@@ -34,6 +35,11 @@ const links = [
       { link: '/projects/html-css/static-web', text: 'Static Website' },
       { link: '/projects/html-css/web-integration', text: 'Web Integration' },
       //{ link: '/projects/html-css/TODO', text: 'TODO' },
+    ]},
+
+    { text: 'Others', items: [
+        { link: '/projects/others/climat-guardian', text: 'Climat Guardian' },
+        //{ link: '/projects/others/TODO', text: 'TODO' },
     ]}
 
   ]}
