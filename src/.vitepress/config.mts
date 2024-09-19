@@ -4,44 +4,42 @@ import {defineConfig} from 'vitepress'
 const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Projects', items: [
-
     { text: 'Rust', items: [
-      { link: '/projects/rust/rustlings', text: 'Rustlings' },
-      { link: '/projects/rust/rust-todo', text: 'Rust todo list' },
-      { link: '/projects/rust/sw', text: 'Solution Wiper' },
-      //{ link: '/projects/rust/TODO', text: 'TODO' },
+        { link: '/projects/jobtrek/rust/rustlings', text: 'Rustlings' },
+        { link: '/projects/jobtrek/rust/rust-todo', text: 'Rust todo list' },
+        { link: '/projects/jobtrek/rust/sw', text: 'Solution Wiper' },
+        //{ link: '/projects/jobtrek/rust/TODO', text: 'TODO' },
     ]},
 
     { text: 'Java', items: [
-      { link: '/projects/java/ex-java', text: 'Ex Java' },
-      { link: '/projects/java/tic-tac-toe', text: 'Tic Tic Toe' },
-      { link: '/projects/java/time-tracking-analysis', text: 'Time Tracking Analysis' },
-      //{ link: '/projects/java/TODO', text: 'TODO' },
+        { link: '/projects/jobtrek/java/ex-java', text: 'Ex Java' },
+        { link: '/projects/jobtrek/java/tic-tac-toe', text: 'Tic Tic Toe' },
+        { link: '/projects/jobtrek/java/time-tracking-analysis', text: 'Time Tracking Analysis' },
+        //{ link: '/projects/jobtrek/java/TODO', text: 'TODO' },
     ]},
 
     { text: 'Javascript', items: [
-      { link: '/projects/js/ex-js', text: 'Ex Javascript' },
-      { link: '/projects/js/grade-calculator', text: 'Js Grade Calculator' },
-      //{ link: '/projects/js/TODO', text: 'TODO' },
+        { link: '/projects/jobtrek/js/ex-js', text: 'Ex Javascript' },
+        { link: '/projects/jobtrek/js/grade-calculator', text: 'Js Grade Calculator' },
+        //{ link: '/projects/jobtrek/js/TODO', text: 'TODO' },
     ]},
 
-    { text: 'php', items: [
-      { link: '/projects/php/php-todo', text: 'Php Todo List' },
-      { link: '/projects/php/blog', text: 'Slim + Twig Blog' },
-      //{ link: '/projects/php/TODO', text: 'TODO' },
+    { text: 'PhP', items: [
+        { link: '/projects/jobtrek/php/php-todo', text: 'Php Todo List' },
+        { link: '/projects/jobtrek/php/blog', text: 'Slim + Twig Blog' },
+        //{ link: '/projects/jobtrek/php/TODO', text: 'TODO' },
     ]},
 
     { text: 'Html-Css', items: [
-      { link: '/projects/html-css/static-web', text: 'Static Website' },
-      { link: '/projects/html-css/web-integration', text: 'Web Integration' },
-      //{ link: '/projects/html-css/TODO', text: 'TODO' },
+        { link: '/projects/jobtrek/html-css/static-web', text: 'Static Website' },
+        { link: '/projects/jobtrek/html-css/web-integration', text: 'Web Integration' },
+        //{ link: '/projects/jobtrek/html-css/TODO', text: 'TODO' },
     ]},
 
     { text: 'Others', items: [
-        { link: '/projects/others/climat-guardian', text: 'Climat Guardian' },
-        //{ link: '/projects/others/TODO', text: 'TODO' },
+        { link: '/projects/jobtrek/others/climat-guardian', text: 'Climat Guardian' },
+        //{ link: '/projects/jobtrek/others/TODO', text: 'TODO' },
     ]}
-
   ]}
 ]
 

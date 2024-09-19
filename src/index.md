@@ -17,6 +17,6 @@ hero:
 features:
   - title: Project made at Jobtrek
     details: Diffrent projects I have worked on.
-    link: /projects/project_list
+    link: /projects/jobtrek/project_list
     linkText: See my projects
 ---
