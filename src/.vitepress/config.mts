@@ -42,6 +42,10 @@ const projects = [
     ]},
 
     { text: 'Bobst', items: [
+        { text: 'C#', items: [
+            { link: '/projects/bobst/cs/external-api', text: 'External Api' },
+            // { link: '/projects/bobst/c#/TODO', text: 'TODO' },
+        ]}
     ]}
 ]
 
