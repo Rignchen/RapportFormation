@@ -2,7 +2,7 @@ import {defineConfig} from 'vitepress'
 
 // Will be displayed in left sidebar and navigation
 const projects = [
-    { text: 'Projects', items: [
+    { text: 'Jobtrek', items: [
         { text: 'Rust', items: [
             { link: '/projects/jobtrek/rust/rustlings', text: 'Rustlings' },
             { link: '/projects/jobtrek/rust/rust-todo', text: 'Rust todo list' },
@@ -39,6 +39,9 @@ const projects = [
             { link: '/projects/jobtrek/others/climat-guardian', text: 'Climat Guardian' },
             //{ link: '/projects/jobtrek/others/TODO', text: 'TODO' },
         ]}
+    ]},
+
+    { text: 'Bobst', items: [
     ]}
 ]
 
@@ -47,7 +50,7 @@ const links = [
 ]
 const all_links = [
   ...links,
-  ...projects
+  { text: 'Projects', items: projects }
 ]
 
 // https://vitepress.dev/reference/site-config

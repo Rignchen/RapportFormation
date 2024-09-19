@@ -16,7 +16,11 @@ hero:
 
 features:
   - title: Project made at Jobtrek
-    details: Diffrent projects I have worked on.
+    details: Diffrent projects I have worked on during in training center.
     link: /projects/jobtrek/project_list
+    linkText: See my projects
+  - title: Project made at Bobst
+    details: Diffrent projects I have worked on once in entreprise.
+    link: /projects/bobst/project_list
     linkText: See my projects
 ---
