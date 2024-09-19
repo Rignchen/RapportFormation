@@ -2,7 +2,7 @@ import {defineConfig} from 'vitepress'
 
 // Will be displayed in left sidebar and navigation
 const projects = [
-    { text: 'Jobtrek', items: [
+    { text: 'Jobtrek', link:"/projects/jobtrek/project_list", items: [
         { text: 'Rust', items: [
             { link: '/projects/jobtrek/rust/rustlings', text: 'Rustlings' },
             { link: '/projects/jobtrek/rust/rust-todo', text: 'Rust todo list' },
@@ -41,7 +41,7 @@ const projects = [
         ]}
     ]},
 
-    { text: 'Bobst', items: [
+    { text: 'Bobst', link: "/projects/bobst/project_list", items: [
         { text: 'C#', items: [
             { link: '/projects/bobst/cs/external-api', text: 'External Api' },
             // { link: '/projects/bobst/c#/TODO', text: 'TODO' },
