@@ -15,13 +15,13 @@ you can create your own burger inside a form and the company will make it for yo
 For this we started by using [Figma](https://www.figma.com/) to create a mockup of our website, 
 there I designed all 4 pages:
 - Home page<br>
-![Home page](../../images/static-web/figma/home.png)
+![Home page](../../../images/jobtrek/static-web/figma/home.png)
 - Menu page<br>
-![Menu page](../../images/static-web/figma/menu.png)
+![Menu page](../../../images/jobtrek/static-web/figma/menu.png)
 - Making off<br>
-![Contact page](../../images/static-web/figma/making-off.png)
+![Contact page](../../../images/jobtrek/static-web/figma/making-off.png)
 - About page<br>
-![About page](../../images/static-web/figma/about.png)
+![About page](../../../images/jobtrek/static-web/figma/about.png)
 
 ### HTML
 Once the mockup was done, we started to code the website using HTML, this was the first time I used HTML, but I found it
@@ -31,19 +31,19 @@ At this point the website was just a bunch of text with no style, so it was pret
 <div style="display: grid; grid-template-columns: repeat(4, auto); grid-gap: 1rem; margin: 1rem 0;">
     <div>
         <h5 style="text-align: center; text-decoration: underline">Home page</h5>
-        <img src="../../images/static-web/html/home.png" alt="Home page">
+        <img src="../../../images/jobtrek/static-web/html/home.png" alt="Home page">
     </div>
     <div>
         <h5 style="text-align: center; text-decoration: underline">Menu page</h5>
-        <img src="../../images/static-web/html/menu.png" alt="Menu page">
+        <img src="../../../images/jobtrek/static-web/html/menu.png" alt="Menu page">
     </div>
     <div>
         <h5 style="text-align: center; text-decoration: underline">Making off</h5>
-        <img src="../../images/static-web/html/making-off.png" alt="Making off">
+        <img src="../../../images/jobtrek/static-web/html/making-off.png" alt="Making off">
     </div>
     <div>
         <h5 style="text-align: center; text-decoration: underline">About page</h5>
-        <img src="../../images/static-web/html/about.png" alt="About page">
+        <img src="../../../images/jobtrek/static-web/html/about.png" alt="About page">
     </div>
 </div>
 
@@ -59,11 +59,11 @@ so I just put a big square box on them and made the box the link
 
 After a month of work, I finally finished the website and was really happy to start something else
 - Home page<br>
-![Home page](../../images/static-web/css/home.png)
+![Home page](../../../images/jobtrek/static-web/css/home.png)
 - Menu page<br>
-![Menu page](../../images/static-web/css/menu.png)
+![Menu page](../../../images/jobtrek/static-web/css/menu.png)
 - Making off<br>
-![Contact page](../../images/static-web/css/making-off.png)
+![Contact page](../../../images/jobtrek/static-web/css/making-off.png)
 - About page<br>
-![About page](../../images/static-web/css/about.png)
+![About page](../../../images/jobtrek/static-web/css/about.png)
 

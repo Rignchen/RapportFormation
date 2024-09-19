@@ -1,7 +1,7 @@
 # Grade Calculator <Badge type="tip" text="Javascript" />
 
 Once we knew how to use the DOM, we started to build a grade calculator. The idea was to only make the javascript part of the project, so our "teacher" gave us the html css for the webpage.
-![Html and css](../../images/grade-calculator/html-css.png)
+![Html and css](../../../images/jobtrek/grade-calculator/html-css.png)
 
 ## Javascript
 I started by implementing a function to add the grade elements in the semesters, I then made added a function to add new semesters and realised I had to code the function to add the grades in the semesters again because the semesters were now generated instead of being hardcoded.

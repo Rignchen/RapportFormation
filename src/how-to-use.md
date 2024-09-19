@@ -92,7 +92,7 @@ You can add assets to your markdown files by placing them in the same folder as 
 ![My image alt](./images/rust_todo/show_list.png)
 ```
 
-![My image alt](./images/rust_todo/show_list.png)
+![My image alt](./images/jobtrek/rust_todo/show_list.png)
 
 
 ## Start you repo

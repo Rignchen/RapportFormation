@@ -47,7 +47,7 @@ I then added a way to add and remove items to the list
 					}
 				}
 ```
-![add new task](../../images/rust_todo/new_task.png)<br>
+![add new task](../../../images/jobtrek/rust_todo/new_task.png)<br>
 
 ### Show the list
 I then had to add a way to show the list, I wanted it to hapend automatically when the program started and when the user asked for it, so I did it in a function
@@ -65,7 +65,7 @@ fn show_values(list: &[String], mut amount: usize) {
 	println!("The list is empty");
 }
 ```
-![show todo list](../../images/rust_todo/show_list.png)<br>
+![show todo list](../../../images/jobtrek/rust_todo/show_list.png)<br>
 
 ### Re-run the last command
 At this point I realized that I wanted the user to be able to easily re-run the last command without having to type it again,
@@ -94,11 +94,11 @@ so I added a way to store temporary the last command run. I then set it so the u
 			}
 		}
 ```
-![re-run last command](../../images/rust_todo/rerun_command.png)<br>
+![re-run last command](../../../images/jobtrek/rust_todo/rerun_command.png)<br>
 
 ### Other commands
 I then added multiple commands I wanted to have in the program, for example I added a `help` command wich list all the commands available
-![help command](../../images/rust_todo/help.png)<br>
+![help command](../../../images/jobtrek/rust_todo/help.png)<br>
 
 ### Save and load
 Once this was done, I added a way to save the list to a file and load it back when the program starts<br>

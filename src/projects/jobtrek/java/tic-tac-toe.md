@@ -39,7 +39,7 @@ public static String getBoard(List<List<Character>> tableau) {
         .substring("\n-+-+-\n".length());
 }
 ```
-![Display the game board](../../images/tic-tac-toe/display-grid.png)<br>
+![Display the game board](../../../images/jobtrek/tic-tac-toe/display-grid.png)<br>
 
 ## Ask input to the user
 Once this was done I added an ArrayList containing all the possible moves and added a method for the player to select one of the moves in the list.\
@@ -66,7 +66,7 @@ public static Character inputIn(String text, List<Character> values) {
     return input.charAt(0);
 }
 ```
-![Ask input to the user](../../images/tic-tac-toe/ask-input.png)<br>
+![Ask input to the user](../../../images/jobtrek/tic-tac-toe/ask-input.png)<br>
 
 ## Know player's turn
 I then wanted to know wich player's turn it was, so I added a variable type short to keep track of the turns, that way I could use the modulo operator to know wich player's turn it was.\
@@ -89,7 +89,7 @@ if (turn == 9) {
     is_playing = false;
 }
 ```
-![Update the game board](../../images/tic-tac-toe/update-grid.png)<br>
+![Update the game board](../../../images/jobtrek/tic-tac-toe/update-grid.png)<br>
 
 ## Winning condition
 I then added a method to check if a player had won the game, this part did take me a while the first time I did a tic-tac-toe game but as it was the fifth time I was coding this game, I knew exactly how to do it.\
@@ -138,7 +138,7 @@ if (player1won) {
     System.out.println("Tie, nobody won");
 }
 ```
-![Winning condition](../../images/tic-tac-toe/win.png)<br>
+![Winning condition](../../../images/jobtrek/tic-tac-toe/win.png)<br>
 
 ## Play again
 The problem was that once the game was over, the program would just end, so I put a do while loop in the main loop to ask the user if they wanted to play again.\
@@ -150,4 +150,4 @@ public static void main(String[] args) {
     } while (inputIn("Do you want to play again? [y/n]", List.of('y', 'n')) == 'y');
 }
 ```
-![Play again](../../images/tic-tac-toe/play-again.png)<br>
+![Play again](../../../images/jobtrek/tic-tac-toe/play-again.png)<br>

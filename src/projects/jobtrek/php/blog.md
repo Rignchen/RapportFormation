@@ -198,7 +198,7 @@ To create a post I just give the user id, title and content to the database.
 While working on the CRUD, I also made the interface for the blog.\
 I didn't put much effort into it as it really only was there to show that the CRUD was working.\
 However, I still wanted to keep it organized so I split it into multiple files.
-![Organization of the files](../../images/php_blog/twig.png)
+![Organization of the files](../../../images/jobtrek/php_blog/twig.png)
 I basically had a file for each pages wich was then calling a template file wich called header, success/error message and docktype files.\
 This file was also calling a content file wich was then calling some other files to fill the content.
 ```
