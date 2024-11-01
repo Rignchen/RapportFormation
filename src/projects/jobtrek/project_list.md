@@ -56,6 +56,6 @@ features:
     linkText: See my projects
   - title: Solution Wiper
     details: Diffrent projects I have worked on.
-    link: /projects/jobtrek/rust/solution-wiper
+    link: /projects/jobtrek/rust/sw
     linkText: See my projects
 ---
